@@ -9,6 +9,4 @@ Module : Applied Machine Learning
 
 Project : Unsupervised Learning - Iris Dataset
 
-See presentation at
-
-see presentation at :https://docs.google.com/presentation/d/1wKKeg1XXCzwW3YcvjrkUw8VbDxflUP1hpx5bD_rqsYI/edit
+See presentation at: https://docs.google.com/presentation/d/1wKKeg1XXCzwW3YcvjrkUw8VbDxflUP1hpx5bD_rqsYI/edit
